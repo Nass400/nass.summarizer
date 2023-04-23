@@ -11,7 +11,7 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/nass400/nass.summerizer", "_blank")
+            window.open("https://github.com/Nass400/nass.summarizer", "_blank")
           }
           className='black_btn'
         >
